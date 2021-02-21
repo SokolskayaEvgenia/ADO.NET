@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab04.05_Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab04.06_DataViewExample", "ITMO.ADO.NET.Lab04.06_DataViewExample\ITMO.ADO.NET.Lab04.06_DataViewExample.csproj", "{1621CA9D-F40D-4DB6-ADDA-4D9745963BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab05.01_DataSourcesWizard", "ITMO.ADO.NET.Lab05.01_DataSourcesWizard\ITMO.ADO.NET.Lab05.01_DataSourcesWizard.csproj", "{5C4EBB48-0DB4-4A5D-86EE-C08FABBFA7DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab05.02_DataBindingSimple", "ITMO.ADO.NET.Lab05.02_DataBindingSimple\ITMO.ADO.NET.Lab05.02_DataBindingSimple.csproj", "{D9C0693B-F89B-495B-886F-4A91F85A42EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab05.03_DataBindingComplex", "ITMO.ADO.NET.Lab05.03_DataBindingComplex\ITMO.ADO.NET.Lab05.03_DataBindingComplex.csproj", "{54779E25-AE0E-4AD0-9809-9DC465294AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab05.04_DataGridViewExample", "ITMO.ADO.NET.Lab05.04_DataGridViewExample\ITMO.ADO.NET.Lab05.04_DataGridViewExample.csproj", "{551BAD46-6E90-466B-B12C-31DFB04F9E08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,22 @@ Global
 		{1621CA9D-F40D-4DB6-ADDA-4D9745963BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1621CA9D-F40D-4DB6-ADDA-4D9745963BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1621CA9D-F40D-4DB6-ADDA-4D9745963BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4EBB48-0DB4-4A5D-86EE-C08FABBFA7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4EBB48-0DB4-4A5D-86EE-C08FABBFA7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4EBB48-0DB4-4A5D-86EE-C08FABBFA7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4EBB48-0DB4-4A5D-86EE-C08FABBFA7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C0693B-F89B-495B-886F-4A91F85A42EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C0693B-F89B-495B-886F-4A91F85A42EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C0693B-F89B-495B-886F-4A91F85A42EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C0693B-F89B-495B-886F-4A91F85A42EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54779E25-AE0E-4AD0-9809-9DC465294AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54779E25-AE0E-4AD0-9809-9DC465294AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54779E25-AE0E-4AD0-9809-9DC465294AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54779E25-AE0E-4AD0-9809-9DC465294AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551BAD46-6E90-466B-B12C-31DFB04F9E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551BAD46-6E90-466B-B12C-31DFB04F9E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551BAD46-6E90-466B-B12C-31DFB04F9E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551BAD46-6E90-466B-B12C-31DFB04F9E08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

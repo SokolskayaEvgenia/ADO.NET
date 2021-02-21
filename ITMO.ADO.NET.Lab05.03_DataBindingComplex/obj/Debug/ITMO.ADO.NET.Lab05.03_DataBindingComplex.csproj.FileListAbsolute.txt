@@ -1,0 +1,9 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\bin\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\bin\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\bin\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05._03_DataBindingComplex.DataBindingComplex.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05._03_DataBindingComplex.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab05.03_DataBindingComplex\obj\Debug\ITMO.ADO.NET.Lab05.03_DataBindingComplex.pdb
