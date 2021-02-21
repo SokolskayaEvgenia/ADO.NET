@@ -1,0 +1,10 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\bin\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\bin\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\bin\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.DatasetDesigner.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04_DatasetDesigner\obj\Debug\ITMO.ADO.NET.Lab04_DatasetDesigner.pdb
