@@ -1,0 +1,9 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\bin\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04._04_DataAdapterWizard.DataAdapterWizard.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04._04_DataAdapterWizard.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab04.04_DataAdapterWizard\obj\Debug\ITMO.ADO.NET.Lab04.04_DataAdapterWizard.pdb
