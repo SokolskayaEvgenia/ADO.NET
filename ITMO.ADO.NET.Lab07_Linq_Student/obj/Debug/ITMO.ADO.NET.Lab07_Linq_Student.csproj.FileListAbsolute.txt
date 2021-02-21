@@ -1,0 +1,7 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\bin\Debug\ITMO.ADO.NET.Lab07.01_Linq_Student.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\bin\Debug\ITMO.ADO.NET.Lab07.01_Linq_Student.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\bin\Debug\ITMO.ADO.NET.Lab07.01_Linq_Student.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\obj\Debug\ITMO.ADO.NET.Lab07_Linq_Student.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\obj\Debug\ITMO.ADO.NET.Lab07_Linq_Student.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\obj\Debug\ITMO.ADO.NET.Lab07.01_Linq_Student.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab07_Linq_Student\obj\Debug\ITMO.ADO.NET.Lab07.01_Linq_Student.pdb

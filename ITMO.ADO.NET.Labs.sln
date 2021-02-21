@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab06.01_Savin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab06.02_LoadDataSetXml", "ITMO.ADO.NET.Lab06.02_LoadDataSetXml\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.csproj", "{2CE64598-0554-4814-A5E9-B0FF89761795}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab07_Linq_Student", "ITMO.ADO.NET.Lab07_Linq_Student\ITMO.ADO.NET.Lab07_Linq_Student.csproj", "{966764A7-B5AB-475D-AB0A-0A631578F198}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{2CE64598-0554-4814-A5E9-B0FF89761795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CE64598-0554-4814-A5E9-B0FF89761795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CE64598-0554-4814-A5E9-B0FF89761795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966764A7-B5AB-475D-AB0A-0A631578F198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966764A7-B5AB-475D-AB0A-0A631578F198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966764A7-B5AB-475D-AB0A-0A631578F198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966764A7-B5AB-475D-AB0A-0A631578F198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
