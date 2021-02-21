@@ -1,0 +1,9 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\bin\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\bin\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\bin\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06._02_LoadDataSetXml.LoadDataSetXml.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06._02_LoadDataSetXml.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Labs\ITMO.ADO.NET.Lab06.02_LoadDataSetXml\obj\Debug\ITMO.ADO.NET.Lab06.02_LoadDataSetXml.pdb
