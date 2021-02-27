@@ -1,5 +1,5 @@
 ﻿
-namespace ITMO.ADO.NET.Cntrl.Lab_02
+namespace ITMO.ADO.NET.Cntrl.Lab_03_EDM
 {
     partial class EnterForm
     {

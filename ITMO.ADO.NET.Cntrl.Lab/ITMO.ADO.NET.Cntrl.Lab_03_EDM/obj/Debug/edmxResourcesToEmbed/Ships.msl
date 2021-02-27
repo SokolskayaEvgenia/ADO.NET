@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ShipsModelContainer" CdmEntityContainer="ShipsEntities">
+    <EntitySetMapping Name="Battles">
+      <EntityTypeMapping TypeName="ShipsModel.Battle">
+        <MappingFragment StoreEntitySet="Battles">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Classes">
+      <EntityTypeMapping TypeName="ShipsModel.Class">
+        <MappingFragment StoreEntitySet="Classes">
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="numGuns" ColumnName="numGuns" />
+          <ScalarProperty Name="bore" ColumnName="bore" />
+          <ScalarProperty Name="displacement" ColumnName="displacement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Outcomes">
+      <EntityTypeMapping TypeName="ShipsModel.Outcome">
+        <MappingFragment StoreEntitySet="Outcomes">
+          <ScalarProperty Name="ship" ColumnName="ship" />
+          <ScalarProperty Name="battle" ColumnName="battle" />
+          <ScalarProperty Name="result" ColumnName="result" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ships">
+      <EntityTypeMapping TypeName="ShipsModel.Ship">
+        <MappingFragment StoreEntitySet="Ships">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="launched" ColumnName="launched" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

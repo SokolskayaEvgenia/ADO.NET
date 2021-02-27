@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_01_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_02_DataSet", "ITMO.ADO.NET.Cntrl.Lab_02_DataSet\ITMO.ADO.NET.Cntrl.Lab_02_DataSet.csproj", "{963D4ED3-86D4-419B-82C8-F71CFD08113B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_03_EDM", "ITMO.ADO.NET.Cntrl.Lab_03_EDM\ITMO.ADO.NET.Cntrl.Lab_03_EDM.csproj", "{ED296294-EC0B-40EC-ABBC-681EFB970CFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{963D4ED3-86D4-419B-82C8-F71CFD08113B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963D4ED3-86D4-419B-82C8-F71CFD08113B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963D4ED3-86D4-419B-82C8-F71CFD08113B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

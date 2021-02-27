@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace ITMO.ADO.NET.Cntrl.Lab_02
+namespace ITMO.ADO.NET.Cntrl.Lab_03_EDM
 {
     public partial class EnterForm : Form
     {

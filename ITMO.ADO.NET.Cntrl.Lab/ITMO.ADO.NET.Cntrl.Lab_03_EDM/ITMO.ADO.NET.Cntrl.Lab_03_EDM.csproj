@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{963D4ED3-86D4-419B-82C8-F71CFD08113B}</ProjectGuid>
+    <ProjectGuid>{ED296294-EC0B-40EC-ABBC-681EFB970CFC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ITMO.ADO.NET.Cntrl.Lab_02</RootNamespace>
-    <AssemblyName>ITMO.ADO.NET.Cntrl.Lab_02</AssemblyName>
+    <RootNamespace>ITMO.ADO.NET.Cntrl.Lab_03_EDM</RootNamespace>
+    <AssemblyName>ITMO.ADO.NET.Cntrl.Lab_03_EDM</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,8 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +55,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Battle.cs">
+      <DependentUpon>ShipsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Class.cs">
+      <DependentUpon>ShipsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Outcome.cs">
+      <DependentUpon>ShipsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Ship.cs">
+      <DependentUpon>ShipsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ShipsModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ShipsModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ShipsModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ShipsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ShipsModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ShipsModel.edmx</DependentUpon>
+    </Compile>
     <Compile Include="StudentForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,14 +102,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShipsDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ShipsDataSet.xsd</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="StudentForm.resx">
-      <DependentUpon>StudentForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="EnterForm.resx">
       <DependentUpon>EnterForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,6 +117,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="StudentForm.resx">
+      <DependentUpon>StudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -98,20 +131,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="ShipsDataSet.xsc">
-      <DependentUpon>ShipsDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="ShipsDataSet.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>ShipsDataSet.Designer.cs</LastGenOutput>
-    </None>
-    <None Include="ShipsDataSet.xss">
-      <DependentUpon>ShipsDataSet.xsd</DependentUpon>
+    <EntityDeploy Include="ShipsModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ShipsModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ShipsModel.edmx.diagram">
+      <DependentUpon>ShipsModel.edmx</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ShipsModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ShipsModel.edmx</DependentUpon>
+      <LastGenOutput>ShipsModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="ShipsModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ShipsModel.edmx</DependentUpon>
+      <LastGenOutput>ShipsModel.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
