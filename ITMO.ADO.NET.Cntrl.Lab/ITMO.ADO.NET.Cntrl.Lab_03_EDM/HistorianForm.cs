@@ -94,10 +94,6 @@ namespace ITMO.ADO.NET.Cntrl.Lab_03_EDM
 
         
 
-        private void HistorianForm_Load(object sender, EventArgs e)
-        {
-            ships_dataGridView.AllowUserToDeleteRows = true;
-            battles_dataGridView.AllowUserToDeleteRows = true;
-        }
+       
     }
 }

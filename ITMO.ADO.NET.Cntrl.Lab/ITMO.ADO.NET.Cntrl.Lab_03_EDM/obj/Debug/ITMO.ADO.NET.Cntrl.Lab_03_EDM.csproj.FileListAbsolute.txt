@@ -1,0 +1,17 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\EntityFramework.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\EntityFramework.SqlServer.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\EntityFramework.xml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\EntityFramework.SqlServer.xml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\bin\Debug\ru\EntityFramework.resources.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.EnterForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.HistorianForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.StudentForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.csproj.CopyComplete
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_03_EDM\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_03_EDM.pdb

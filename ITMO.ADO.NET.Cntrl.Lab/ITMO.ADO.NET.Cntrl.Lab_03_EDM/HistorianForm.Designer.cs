@@ -137,7 +137,6 @@ namespace ITMO.ADO.NET.Cntrl.Lab_03_EDM
             this.Name = "HistorianForm";
             this.Text = "Historian Form";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.HistorianForm_FormClosed);
-            this.Load += new System.EventHandler(this.HistorianForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ships_dataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.changes_dataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.battles_dataGridView)).EndInit();
