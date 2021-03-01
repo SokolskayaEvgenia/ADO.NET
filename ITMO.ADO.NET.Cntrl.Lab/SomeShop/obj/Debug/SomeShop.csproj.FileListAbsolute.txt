@@ -1,0 +1,11 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\SomeShop.dll.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\SomeShop.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\SomeShop.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\EntityFramework.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\EntityFramework.xml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\obj\Debug\SomeShop.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\obj\Debug\SomeShop.csproj.CopyComplete
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\obj\Debug\SomeShop.dll
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\SomeShop\obj\Debug\SomeShop.pdb

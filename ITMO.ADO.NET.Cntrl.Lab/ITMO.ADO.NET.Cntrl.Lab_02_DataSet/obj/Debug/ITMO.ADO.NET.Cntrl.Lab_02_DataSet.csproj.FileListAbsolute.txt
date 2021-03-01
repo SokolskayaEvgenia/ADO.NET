@@ -1,0 +1,11 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_02.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_02.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\bin\Debug\ITMO.ADO.NET.Cntrl.Lab_02.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.StudentForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.EnterForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.HistorianForm.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.Properties.Resources.resources
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02_DataSet.csproj.GenerateResource.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02_DataSet.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Технология ADO.NET\LABS\ITMO.ADO.NET.Cntrl.Lab\ITMO.ADO.NET.Cntrl.Lab_02_DataSet\obj\Debug\ITMO.ADO.NET.Cntrl.Lab_02.pdb

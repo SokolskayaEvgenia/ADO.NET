@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_02_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_03_EDM", "ITMO.ADO.NET.Cntrl.Lab_03_EDM\ITMO.ADO.NET.Cntrl.Lab_03_EDM.csproj", "{ED296294-EC0B-40EC-ABBC-681EFB970CFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Cntrl.Lab_04_CodeFirst", "ITMO.ADO.NET.Cntrl.Lab_04_CodeFirst\ITMO.ADO.NET.Cntrl.Lab_04_CodeFirst.csproj", "{109F999A-8A93-4085-A089-2AF5F88F8789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeShop", "SomeShop\SomeShop.csproj", "{A9419329-7A0F-4EC9-BC7A-066ECF3C1BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED296294-EC0B-40EC-ABBC-681EFB970CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109F999A-8A93-4085-A089-2AF5F88F8789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109F999A-8A93-4085-A089-2AF5F88F8789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109F999A-8A93-4085-A089-2AF5F88F8789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109F999A-8A93-4085-A089-2AF5F88F8789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9419329-7A0F-4EC9-BC7A-066ECF3C1BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9419329-7A0F-4EC9-BC7A-066ECF3C1BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9419329-7A0F-4EC9-BC7A-066ECF3C1BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9419329-7A0F-4EC9-BC7A-066ECF3C1BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
